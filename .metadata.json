@@ -1,1 +1,6 @@
-[]
+[
+  {
+    "package": "tsviz",
+    "oncran": true
+  }
+]
